@@ -1,11 +1,21 @@
-<!DOCTYPE HTML PUBLIC>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="shortcut icon" href="images/favicon.ico" />
-<title>Left 4 Dead 2 -Fairplay ONLY-</title>
+<html><head>
+<title>Sample Motd</title>
+<style type="text/css">
+
+body
+{
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+</style>
 </head>
-<body style="background-color: black;">
-<img src="https://github.com/Kyuucumber/L4D2MOTD/blob/main/bluelobster.jpg" alt="The Blue Lobber" style="width:100%;height:100%;">
-</body>
-</html>
+<body>
+<img src="https://github.com/Kyuucumber/L4D2MOTD/blob/main/bluelobster.jpg" width="100%" height="100%" border="0" align="center">
+
+
+</body></html>
+
+""
+
